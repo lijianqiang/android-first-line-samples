@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/first_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button First"/>
+
+    <Button android:id="@+id/btn_intent_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intent 1"/>
+
+    <Button android:id="@+id/btn_intent_for_resut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intent For Result"/>
+
+    <Button android:id="@+id/btn_intent_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intent 2.3.2"/>
+
+    <Button android:id="@+id/btn_intent_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intent 2.3.3"/>
+
+</LinearLayout>
